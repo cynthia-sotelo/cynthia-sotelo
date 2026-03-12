@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="800">
+  <img src="banner.jpg">
 </p>
 Cynthia Sotelo
 QA Tester | API Testing | Automation
