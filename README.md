@@ -2,7 +2,7 @@
   <img src="banner.jpg">
 </p>
 Cynthia Sotelo
-QA Tester | API Testing | Automation
+QA Tester | API Testing | Automation <br>
 Postman • Newman • JMeter • Docker
 
 
