@@ -35,4 +35,4 @@ Automated API tests with HTML reports.
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/TUPERFIL
+LinkedIn: https://www.linkedin.com/in/cynthiasotelo/
