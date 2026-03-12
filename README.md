@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="800">
+</p>
+Cynthia Sotelo
+QA Tester | API Testing | Automation
+Postman • Newman • JMeter • Docker
 
-<!--
-**cynthia-sotelo/cynthia-sotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* QA tester with experience in functional and API testing
+* Interested in test automation and backend testing
+* Currently building projects with Postman and Newman
+
+## Tools
+
+* Postman
+* Newman
+* JMeter
+* Docker
+* Jira
+* Swagger
+* SQL
+
+## Current Focus
+
+* API testing
+* Test automation
+* Performance testing
+
+## Projects
+
+🔹 API Testing with Postman & Newman
+Automated API tests with HTML reports.
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/TUPERFIL
