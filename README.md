@@ -6,13 +6,13 @@ QA Tester | API Testing | Automation <br>
 Postman • Newman • JMeter • Docker
 
 
-## About Me
+# Sobre Mí
 
-* QA tester with experience in functional and API testing
-* Interested in test automation and backend testing
-* Currently building projects with Postman and Newman
+QA Tester con experiencia en pruebas funcionales y de API.
+Me interesa la automatización de pruebas y el testing de backend.
+Actualmente desarrollando proyectos con Postman y Newman.
 
-## Tools
+## 🛠️ Herramientas
 
 * Postman
 * Newman
@@ -22,17 +22,16 @@ Postman • Newman • JMeter • Docker
 * Swagger
 * SQL
 
-## Current Focus
+## 🎯 Enfoque Actual
 
-* API testing
-* Test automation
-* Performance testing
+* Testing de APIs
+* Automatización de pruebas
+* Pruebas de rendimiento (Performance)
 
-## Projects
+## 📂 Proyectos
 
-🔹 API Testing with Postman & Newman
-Automated API tests with HTML reports.
+🔹 **Testing de API con Postman & Newman:** Pruebas automatizadas de API con reportes en HTML. *(Puedes ver mis proyectos en mi [Portfolio de QA](./qa-portfolio))*
 
-## Contact
+## 📫 Contacto
 
-LinkedIn: https://www.linkedin.com/in/cynthiasotelo/
+* **LinkedIn:** [Cynthia Sotelo](https://www.linkedin.com/in/cynthiasotelo/)
