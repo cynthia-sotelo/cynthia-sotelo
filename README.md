@@ -30,7 +30,7 @@ Actualmente desarrollando proyectos con Postman y Newman.
 
 ## 📂 Proyectos
 
-🔹 **Testing de API con Postman & Newman:** Pruebas automatizadas de API con reportes en HTML. *(Puedes ver mis proyectos en mi [Portfolio de QA](./qa-portfolio))*
+🔹 **Testing de API con Postman & Newman:** Pruebas automatizadas de API con reportes en HTML. *(Puedes ver mis proyectos en mi [Portfolio de QA](https://github.com/cynthia-sotelo/qa-portfolio))*
 
 ## 📫 Contacto
 
